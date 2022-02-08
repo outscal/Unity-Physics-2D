@@ -34,3 +34,16 @@ Raycasts :
     ```
     
 - In the above code, RaycastHit2D returns information about an object detected by a raycast in 2D physics. The RaycastHit2D class is used by [Physics2D.Raycast](https://docs.unity3d.com/ScriptReference/Physics2D.Raycast.html) and other functions to return information about the objects detected within the range fired by raycasts. 👾
+
+
+---
+
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+
+</aside>
+
+![discord](./Images/discord.png)
+
+---

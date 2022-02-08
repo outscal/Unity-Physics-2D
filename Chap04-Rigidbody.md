@@ -21,3 +21,16 @@ Rigidbody :
     
 - By changing the gravity scale of that Rigidbody, you're basically defining how much the object is affected by gravity. In fact, try changing around the mass and gravity scale to different values and see what happens. The object still has a mass, it just doesn't care for the forces of gravity acting on it, and thus remains where it is.
 - We can explore many other things by changing their values and noticing how the game object reacts.
+
+
+---
+
+<aside>
+
+> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
+
+</aside>
+
+![discord](./Images/discord.png)
+
+---
