@@ -1,4 +1,4 @@
-Triggers :
+## Triggers :
 
 - In the above section we have talked about how we want to restrict the player from passing through the game object.
 - In this part we will be talking about how to enable the player from passing through a game object. Basically it is done using “is trigger” checkbox in the collider component.
