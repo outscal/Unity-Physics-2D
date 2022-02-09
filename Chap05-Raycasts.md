@@ -1,4 +1,4 @@
-Raycasts :
+## Raycasts :
 
 - A Raycast is like a laser beam fired from a point that we call as “Origin” along a particular direction to detect if our game object is still in collision with the other game object and if it is not in collision we perform certain operations.
 - The big advantage is that every object which makes contact with the laser beam can be reported/detected.
