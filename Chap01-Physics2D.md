@@ -1,4 +1,4 @@
-# Unity Physics 2D
+# Unity Physics
 
 Imagine a game that has no movements of players and enemies its just few blocks that are static, it would be such a dull game if we can’t interact with our player and enemies right??!! 😢 
 
