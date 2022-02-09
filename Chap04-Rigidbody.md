@@ -1,4 +1,4 @@
-Rigidbody : 
+## Rigidbody : 
 
 - Rigidbodies are components that allow a GameObject to react to **real-time physics**. This includes reactions to forces and gravity, mass, drag and momentum.
 - You can attach a Rigidbody to your GameObject by simply clicking on **Add Component** and typing in Rigidbody2D in the search field.
