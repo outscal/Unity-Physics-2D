@@ -1,7 +1,7 @@
 ## Colliders 
 
 - Great!!!! you are all set on understanding what Unity Physics is all about 😎
-- Ever wondered how the a car flips in GTA once you dash into another car?? 🤔🤔 That's where Colliders come in action.
+- Ever wondered how a car flips in GTA once you dash into another car?? 🤔🤔 That's where Colliders come in action.
 - As the name suggest colliders, in Unity helps a lot in detecting collision between game objects.
 
     <br>
