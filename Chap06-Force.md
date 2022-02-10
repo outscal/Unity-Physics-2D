@@ -1,5 +1,11 @@
 ## Force
 
+I am sure you must have heard a lot about the term "Force" not only here but also in your high school "Physics Fundamentals" subject🤷🏻‍♂️ 
+Guess Newton's laws of motion might come in handy✅
+  </br>
+  
+![Force](https://media.giphy.com/media/oCQBxiSkYOvT2/giphy.gif)
+
 As Newton’s Second Law, we know that (**Force= mass of the object * acceleration**). When force is applied to a body, it causes motion or a change. Force exists because of the interaction among the objects. 
 
 In Unity, it works the same way. We can add a force to a RigidBody by using AddForce(). There are multiple ways in which you can use AddForce().
@@ -25,15 +31,3 @@ Let’s look into the modes of force now. There are 4 types of modes available i
 - ForceMode.VelocityChange: It applies a direct velocity change, and changes the velocity by the value of force.
 
 You can play around with all these functions and modes in your project to see how each and every object behaves.
-
----
-
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-
-</aside>
-
-![discord](./Images/discord.png)
-
----
