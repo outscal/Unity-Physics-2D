@@ -1,7 +1,7 @@
 ## Rigidbody
 
 - Greattt!!! 😎 You are halfway to understanding the concept of Physics in Unity.
-- Rigidbodies are components that allow a GameObject to react to **real-time physics**. This includes reactions to forces and gravity, mass, drag and momentum.
+- What are Rigidbodies??🤔 They are components that allow a GameObject to react to **real-time physics**. This includes reactions to forces and gravity, mass, drag and momentum.
 - You can attach a Rigidbody to your GameObject by simply clicking on **Add Component** and typing in Rigidbody2D in the search field.
     </br>
 
