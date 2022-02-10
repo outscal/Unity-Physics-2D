@@ -1,5 +1,7 @@
 ## Colliders 
 
+- Great!!!! you are all set on understanding what Unity Physics is all about 😎
+- Ever wondered how the a car flips in GTA once you dash into another car?? 🤔🤔 That's where Colliders come in action.
 - As the name suggest colliders, in Unity helps a lot in detecting collision between game objects.
 
     <br>
@@ -69,14 +71,3 @@ There are other Collider 2D types that can be used with **Rigidbody** 2D as we
 - [Capsule Collider 2D](https://docs.unity3d.com/Manual/class-CapsuleCollider2D.html) for circular or lozenge-shaped collision areas.
 - [Composite Collider 2D](https://docs.unity3d.com/Manual/class-CompositeCollider2D.html) for merging **Box Collider** 2Ds and Polygon Collider 2Ds.
 
----
-
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-
-</aside>
-
-![discord](./Images/discord.png)
-
----
