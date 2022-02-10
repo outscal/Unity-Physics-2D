@@ -1,6 +1,6 @@
 ## Gravity
 
-I am very sure you might have heard about Gravity in space or space shuttle. 👨🏻‍🚀 As you might know there is no gravity on moon and astronauts simply fly in air.
+I am sure you might have heard about Gravity, astronauts and galaxy. 👨🏻‍🚀 As you might know there is no gravity on moon and astronauts simply fly in air.
   </br>
   
 ![gravity](https://media.giphy.com/media/A7eRyKtVD3HEI/giphy.gif)
