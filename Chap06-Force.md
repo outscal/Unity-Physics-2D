@@ -3,7 +3,6 @@
 I am sure you must have heard a lot about the term "Force" not only here but also in your high school "Physics Fundamentals" subject🤷🏻‍♂️ 
 Guess Newton's laws of motion might come in handy✅
   
-![Force](https://media.giphy.com/media/oCQBxiSkYOvT2/giphy.gif)
 
 As Newton’s Second Law, we know that (**Force= mass of the object * acceleration**). When force is applied to a body, it causes motion or a change. Force exists because of the interaction among the objects. 
 
