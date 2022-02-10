@@ -2,7 +2,6 @@
 
 I am sure you must have heard a lot about the term "Force" not only here but also in your high school "Physics Fundamentals" subject🤷🏻‍♂️ 
 Guess Newton's laws of motion might come in handy✅
-  </br>
   
 ![Force](https://media.giphy.com/media/oCQBxiSkYOvT2/giphy.gif)
 
