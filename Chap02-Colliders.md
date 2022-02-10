@@ -1,13 +1,18 @@
 ## Colliders 
 
 - As the name suggest colliders, in Unity helps a lot in detecting collision between game objects.
+
+    <br>
+
+![collision](https://media.giphy.com/media/xTiTnzwJoXpg7gdONy/giphy.gif)
+
 - In order for collisions to take place game objects must have Rigidbody component attached to it
 - Colliders restrict the game objects from passing a certain point for eg : using colliders we can restrict our player to be enclosed within a room surrounded by 4 walls. We can use the same method to break a box when it collides with a bullet fired by the player or by a punch landed by the player.
 - There are many other use cases of colliders in a game. 
 
-    </br>
+    <br>
 
-    ![Coll_1.png](https://github.com/outscal/Unity-Physics-2D/blob/main/Images/Coll_1.png?raw=true)
+![Coll_1.png](https://github.com/outscal/Unity-Physics-2D/blob/main/Images/Coll_1.png?raw=true)
     
 
 
