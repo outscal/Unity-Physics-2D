@@ -32,4 +32,4 @@ As you learn and upskill yourself, you can earn learning points. These points ca
 
 
 
-All clear? Let's Get Started
+All clear? Let's Keep Going!
