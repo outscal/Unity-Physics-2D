@@ -20,46 +20,6 @@
 
 In the above snapshot we have added collider to our player as well as our platform due to which the platform restricts the player from passing through it and the player stays on it.
 
-There are some functions that are used when colliders are interacting with other game objects:
-
-1. [OnCollisionEnter2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnCollisionEnter2D.html) : This function gets called when a game object enters into collision.
-
-    </br>
-
-    ```cs
-    
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        //block of code to execute when game object enters into collision
-    }
-
-    ```
-    
-2. [OnCollisionExit2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnCollisionExit2D.html) : This function gets called when a game object exits collision.
-
-    </br>
-
-    ```cs
-    
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        //block of code to execute when game object exits collision
-    }
-
-    ```
-    
-3. [OnCollisionStay2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnCollisionStay2D.html) : This function gets called when a game object stays in collision.
-
-    </br>
-
-     ```cs
-    
-    void OnCollisionStay2D(Collision2D collision)
-    {
-        //block of code to execute when game object stays in collision
-    }
-
-    ```
     
 
 There are other Collider 2D types that can be used with **Rigidbody** 2D as well:
