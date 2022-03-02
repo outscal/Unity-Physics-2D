@@ -8,8 +8,3 @@
     
 - When we check the “is trigger” component of a collider we disable the physics being applied to the component, which enables other game objects to pass through it still making it act as a collider.
 - Triggers are mainly used for tutorials in games, in game collectables and also for level complete actions.
-- Just like colliders, triggers also work on functions very similar to that of colliders as mentioned above.
-    1. [OnTriggerEnter2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html)
-    2. [OnTriggerExit2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerExit2D.html)
-    3. [OnTriggerStay2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerStay2D.html)
-
