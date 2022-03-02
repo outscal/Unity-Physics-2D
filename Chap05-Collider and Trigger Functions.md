@@ -1,3 +1,5 @@
+# Collider and Trigger Functions
+
 You've learnt about colliders and triggers till now. 
 
 ![Congrats](https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif)
