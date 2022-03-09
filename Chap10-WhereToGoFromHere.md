@@ -23,8 +23,9 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 ## What next
 
-You can start building your first game (Finally!) and explore more courses here - [Unity Courses](https://academy.outscal.com/unity-course-content/)
+You can start building your first game by learning how to script in Unity here - [Unity Scripting](https://academy.outscal.com/unity-scripting/)
 
+Whether you have something interesting to showcase or just a hi, feel free to join us in Discord where you can also hangout with like-minded people - [Discord](https://discord.com/invite/R4hfXhsWjN).
 
 Well, that's it from me on this one I guess. I will see you guys in the next one, keep building guys!
 
